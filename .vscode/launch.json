@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Minesweeper_el18022_2b9de2ec",
+            "vmArgs": "--module-path \"C:\\Program Files\\Java\\openjfx-19_windows-x64_bin-sdk\\javafx-sdk-19\\lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
